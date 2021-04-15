@@ -1,6 +1,6 @@
 # Set Up Instructions
 
-1. Please go to the apple store and download TestFlight by Apple.
+1. Please go to the Apple store and download TestFlight by Apple.
 
 Link to apple store : https://apps.apple.com/us/app/testflight/id899247664
 
